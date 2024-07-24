@@ -19,7 +19,7 @@ seed_examples:
   question: How much does it cost to repair the supension on a DeLorean DMC-12?
 task_description: 'Details on instructlab community project'
 document:
-  repo: https://github.com/gshipley/backToTheFuture.git
+  repo: https://github.com/theajtr/backToTheFuture.git
   commit: 8bd9220c616afe24b9673d94ec1adce85320809c
   patterns:
     - data.md
